@@ -18,7 +18,7 @@ var twoLoc = new Location(secondPerson, secondLocation, 'two'); //first person's
 var timeLeaveStamp = new Date(2026, 04, 04);
 
 //first day of renewed contact (year, month, day)
-var timeMeetStamp = new Date(2025, 08, 05);
+var timeMeetStamp = new Date(2025, 08, 14);
 
 //earliest and latest time appropirate for call
 var earliestCall = 8;
