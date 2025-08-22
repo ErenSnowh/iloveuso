@@ -1,5 +1,5 @@
 const weatherKey = 'dc8e3f9ede014ea6e603de60104ecf57';
-const timeKey = 'Manav_was';
+const timeKey = 'shinzooif';
 
 const token =''
 const mobile ="Mobile Number with Country Code"
